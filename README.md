@@ -1,0 +1,2 @@
+# cookcost
+Ingredient computation tool
